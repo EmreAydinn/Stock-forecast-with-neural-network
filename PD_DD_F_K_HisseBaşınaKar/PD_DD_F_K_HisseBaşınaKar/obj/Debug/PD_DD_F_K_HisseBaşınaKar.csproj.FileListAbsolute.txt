@@ -1,0 +1,30 @@
+C:\Users\USER\Documents\Visual Studio 2015\Projects\PD_DD_F_K_HisseBaşınaKar\PD_DD_F_K_HisseBaşınaKar\bin\Debug\PD_DD_F_K_HisseBaşınaKar.exe.config
+C:\Users\USER\Documents\Visual Studio 2015\Projects\PD_DD_F_K_HisseBaşınaKar\PD_DD_F_K_HisseBaşınaKar\bin\Debug\PD_DD_F_K_HisseBaşınaKar.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\PD_DD_F_K_HisseBaşınaKar\PD_DD_F_K_HisseBaşınaKar\bin\Debug\PD_DD_F_K_HisseBaşınaKar.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\PD_DD_F_K_HisseBaşınaKar\PD_DD_F_K_HisseBaşınaKar\obj\Debug\PD_DD_F_K_HisseBaşınaKar.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2015\Projects\PD_DD_F_K_HisseBaşınaKar\PD_DD_F_K_HisseBaşınaKar\obj\Debug\PD_DD_F_K_HisseBaşınaKar.Properties.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\PD_DD_F_K_HisseBaşınaKar\PD_DD_F_K_HisseBaşınaKar\obj\Debug\PD_DD_F_K_HisseBaşınaKar.csproj.GenerateResource.Cache
+C:\Users\USER\Documents\Visual Studio 2015\Projects\PD_DD_F_K_HisseBaşınaKar\PD_DD_F_K_HisseBaşınaKar\obj\Debug\PD_DD_F_K_HisseBaşınaKar.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\PD_DD_F_K_HisseBaşınaKar\PD_DD_F_K_HisseBaşınaKar\obj\Debug\PD_DD_F_K_HisseBaşınaKar.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\PD_DD_F_K_HisseBaşınaKar\PD_DD_F_K_HisseBaşınaKar\obj\Debug\PD_DD_F_K_HisseBaşınaKar.FormInput1.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\PD_DD_F_K_HisseBaşınaKar\PD_DD_F_K_HisseBaşınaKar\obj\Debug\PD_DD_F_K_HisseBaşınaKar.FormInput2.resources
+C:\Users\USER\Desktop\PD_DD_F_K_HisseBaşınaKar\PD_DD_F_K_HisseBaşınaKar\bin\Debug\PD_DD_F_K_HisseBaşınaKar.exe.config
+C:\Users\USER\Desktop\PD_DD_F_K_HisseBaşınaKar\PD_DD_F_K_HisseBaşınaKar\obj\Debug\PD_DD_F_K_HisseBaşınaKar.exe
+C:\Users\USER\Desktop\PD_DD_F_K_HisseBaşınaKar\PD_DD_F_K_HisseBaşınaKar\obj\Debug\PD_DD_F_K_HisseBaşınaKar.pdb
+C:\Users\USER\Desktop\PD_DD_F_K_HisseBaşınaKar\PD_DD_F_K_HisseBaşınaKar\obj\Debug\PD_DD_F_K_HisseBaşınaKar.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\PD_DD_F_K_HisseBaşınaKar\PD_DD_F_K_HisseBaşınaKar\obj\Debug\PD_DD_F_K_HisseBaşınaKar.FormInput1.resources
+C:\Users\USER\Desktop\PD_DD_F_K_HisseBaşınaKar\PD_DD_F_K_HisseBaşınaKar\obj\Debug\PD_DD_F_K_HisseBaşınaKar.FormInput2.resources
+C:\Users\USER\Desktop\PD_DD_F_K_HisseBaşınaKar\PD_DD_F_K_HisseBaşınaKar\obj\Debug\PD_DD_F_K_HisseBaşınaKar.Properties.Resources.resources
+C:\Users\USER\Desktop\PD_DD_F_K_HisseBaşınaKar\PD_DD_F_K_HisseBaşınaKar\obj\Debug\PD_DD_F_K_HisseBaşınaKar.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\PD_DD_F_K_HisseBaşınaKar\PD_DD_F_K_HisseBaşınaKar\bin\Debug\PD_DD_F_K_HisseBaşınaKar.exe
+C:\Users\USER\Desktop\PD_DD_F_K_HisseBaşınaKar\PD_DD_F_K_HisseBaşınaKar\bin\Debug\PD_DD_F_K_HisseBaşınaKar.pdb
+C:\Users\USER\Desktop\Projeler\PD_DD_F_K_HisseBaşınaKar\PD_DD_F_K_HisseBaşınaKar\bin\Debug\PD_DD_F_K_HisseBaşınaKar.exe.config
+C:\Users\USER\Desktop\Projeler\PD_DD_F_K_HisseBaşınaKar\PD_DD_F_K_HisseBaşınaKar\obj\Debug\PD_DD_F_K_HisseBaşınaKar.exe
+C:\Users\USER\Desktop\Projeler\PD_DD_F_K_HisseBaşınaKar\PD_DD_F_K_HisseBaşınaKar\obj\Debug\PD_DD_F_K_HisseBaşınaKar.pdb
+C:\Users\USER\Desktop\Projeler\PD_DD_F_K_HisseBaşınaKar\PD_DD_F_K_HisseBaşınaKar\bin\Debug\PD_DD_F_K_HisseBaşınaKar.exe
+C:\Users\USER\Desktop\Projeler\PD_DD_F_K_HisseBaşınaKar\PD_DD_F_K_HisseBaşınaKar\bin\Debug\PD_DD_F_K_HisseBaşınaKar.pdb
+C:\Users\USER\Desktop\Projeler\PD_DD_F_K_HisseBaşınaKar\PD_DD_F_K_HisseBaşınaKar\obj\Debug\PD_DD_F_K_HisseBaşınaKar.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Projeler\PD_DD_F_K_HisseBaşınaKar\PD_DD_F_K_HisseBaşınaKar\obj\Debug\PD_DD_F_K_HisseBaşınaKar.FormInput1.resources
+C:\Users\USER\Desktop\Projeler\PD_DD_F_K_HisseBaşınaKar\PD_DD_F_K_HisseBaşınaKar\obj\Debug\PD_DD_F_K_HisseBaşınaKar.FormInput2.resources
+C:\Users\USER\Desktop\Projeler\PD_DD_F_K_HisseBaşınaKar\PD_DD_F_K_HisseBaşınaKar\obj\Debug\PD_DD_F_K_HisseBaşınaKar.Properties.Resources.resources
+C:\Users\USER\Desktop\Projeler\PD_DD_F_K_HisseBaşınaKar\PD_DD_F_K_HisseBaşınaKar\obj\Debug\PD_DD_F_K_HisseBaşınaKar.csproj.GenerateResource.Cache
